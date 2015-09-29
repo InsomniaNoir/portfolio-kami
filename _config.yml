@@ -5,37 +5,37 @@ url: "http://www.domain.com" # the base hostname & protocol for your site
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
-  title: Tyrion Lannister # Your name will go here
-  description: "A personal portfolio and blog website" # used by search engines
+  title: Jeremiah Shafer # Your name will go here
+  description: "A showcase of my journey into development" # used by search engines
 
   # Header and footer text
   header_text: >
-     <h1>Witty & Hilarious Rails Developer</h1>
+     <h1>I know everything is out there. That's why they call it "everything".</h1>
      <p>I'm a kickass developer specializing in Rails, AngularJS, and MongoDB.</p>
   header_text_feature_image: 
   footer_text: >
-   Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.
+   Powered by <a href="http://jekyllrb.com">Jekyll</a>.
 
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
-  behance:
+  email_address: jrshafer@mac.com
+  behance: 
   bitbucket:
   dribbble: 
-  facebook: 
+  facebook: https://www.facebook.com/CoffinBuilder 
   flickr:
-  github: # github profile name, e.g. "madebymunsters"
+  github: InsomniaNoir
   google_plus:
   instagram: 
-  linkedin:  # Full URL
-  pinterest:
-  reddit:
+  linkedin: https://www.linkedin.com/in/jrshafer
+  pinterest: https://www.pinterest.com/jeremiah0888/
+  reddit: https://www.reddit.com/user/CoffinBuilder/
   soundcloud:
   stack_exchange:  # Full URL
-  steam:
+  steam: https://steamcommunity.com/id/thelaughingcorpse/
   tumblr:
-  twitter: 
-  wordpress:
+  twitter: http://www.twitter.com/CoffinBuilder
+  wordpress: http://ohopiateohrevolver.wordpress.com
   youtube:
 
   # Scripts
